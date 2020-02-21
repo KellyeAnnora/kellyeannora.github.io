@@ -47,7 +47,6 @@ header {
 	color: #45a29e;
 	padding-top: 30px;
 	min-height: 70px;
-	border-bottom: #66fcf1 3px solid;
 }
 
 header a {
@@ -91,7 +90,7 @@ header a: hover {
 #showcase {
 	min-height: 400px;
 	background: #0b0c10;
-	test-align: center;
+	text-align: center;
 	color: #ffffff;
 }
 
