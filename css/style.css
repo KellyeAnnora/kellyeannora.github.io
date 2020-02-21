@@ -6,7 +6,7 @@ body {
 	line-height: 1.5;
 	padding: 0;
 	margin: 0;
-	background-color: #f4f4f4;
+	background-color: #c5c6c7;
 }
 
 /* Global */
@@ -118,4 +118,32 @@ header a: hover {
 	padding: 4px;
 	height: 25px;
 	width: 250px;
+}
+
+/* Boxes */
+
+#boxes {
+	margin-top: 20px;
+}
+
+#boxes .box {
+	float: left;
+	text-align: center;
+	width: 30%;
+	padding: 10px;
+}
+
+#boxes .box img {
+	width: 90px;
+	height: auto;
+}
+
+/* Footer */
+
+footer {
+	padding: 20px;
+	margin-top: 20px;
+	color: #ffffff;
+	background-color: #e8491d;
+	text-align: center;
 }
